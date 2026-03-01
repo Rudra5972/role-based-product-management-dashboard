@@ -1,9 +1,9 @@
 -Frontend
-    -Requirements 
-    react
-
-
+-Requirements
+react
 
 -Backend
-    -Requirements 
-    express
+-Requirements
+express
+
+-Postgres Port is 5972 !!!
